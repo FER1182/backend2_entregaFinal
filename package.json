@@ -1,0 +1,30 @@
+{
+  "name": "backend2_entregafinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FER1182/backend2_entregaFinal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FER1182/backend2_entregaFinal/issues"
+  },
+  "homepage": "https://github.com/FER1182/backend2_entregaFinal#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.7.3",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
